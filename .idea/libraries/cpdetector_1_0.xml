@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="cpdetector-1.0">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib/cpdetector-1.0.10" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/cpdetector-1.0.10" recursive="false" />
+  </library>
+</component>

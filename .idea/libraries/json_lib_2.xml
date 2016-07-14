@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="json-lib-2">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib/json-lib-2.4-jdk15及其依赖jar包" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/lib/json-lib-2.4-jdk15及其依赖jar包" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/lib/json-lib-2.4-jdk15及其依赖jar包" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/json-lib-2.4-jdk15及其依赖jar包" recursive="false" type="SOURCES" />
+  </library>
+</component>
